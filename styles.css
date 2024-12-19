@@ -305,3 +305,12 @@ button:hover {
   border-radius: 8px;           
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
 }
+
+.video-container{
+  border-style: double;
+  border-width: medium;         
+  padding: 20px; 
+  width: 100%;       
+  border-radius: 8px;           
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
+}
